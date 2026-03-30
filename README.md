@@ -113,4 +113,4 @@ Aspiring Software Developer 🚀
 
 This project demonstrates CRUD operations, authentication, and responsive UI design using Django.
 
-Github link : 
+Github link : https://github.com/Samrudhi1004/UMS_Project.git
